@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T13:09:31.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AQ_7yxmlw9T4tr1rMman" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T15:02:21.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="t8U9HRBWf6DuA2jekvMS" version="24.4.6" type="github">
   <diagram name="Seite-1" id="YVCjGE0m4uUGGsczh6MV">
-    <mxGraphModel dx="1247" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,6 +326,9 @@
               <mxPoint x="510" y="1533" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nIdUzOjjcHlbtyB4Kit9-1" value="Dienstplan erstellen" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;width=120;height=20;align=left;" vertex="1" parent="1">
+          <mxGeometry y="30" width="700" height="1690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
