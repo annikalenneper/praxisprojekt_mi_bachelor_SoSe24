@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T17:07:55.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XgceIOZhAS7SYrN7XedO" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T17:16:24.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Jg6AW9pKP9rGAEM0cNeT" version="24.4.8" type="github">
   <diagram name="Seite-1" id="YVCjGE0m4uUGGsczh6MV">
-    <mxGraphModel dx="683" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,7 +187,7 @@
         <mxCell id="pIc5v-TNFkZiDa0ryKYn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" parent="pIc5v-TNFkZiDa0ryKYn-6" source="pIc5v-TNFkZiDa0ryKYn-75" target="pIc5v-TNFkZiDa0ryKYn-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIc5v-TNFkZiDa0ryKYn-75" value="Schichten&amp;nbsp;&lt;div&gt;tauschen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="pIc5v-TNFkZiDa0ryKYn-6" vertex="1">
+        <mxCell id="pIc5v-TNFkZiDa0ryKYn-75" value="Dienstplan bearbeiten" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="pIc5v-TNFkZiDa0ryKYn-6" vertex="1">
           <mxGeometry x="190" y="1067" width="98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pIc5v-TNFkZiDa0ryKYn-79" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="pIc5v-TNFkZiDa0ryKYn-6" vertex="1">
