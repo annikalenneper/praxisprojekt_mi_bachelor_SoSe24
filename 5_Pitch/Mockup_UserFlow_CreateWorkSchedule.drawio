@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T16:58:11.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4UHJnFLzye77FbMmt4Jz" version="24.6.4" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-07-01T16:59:42.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Li5ZixVTZMMk8FoXhSth" version="24.6.4" type="github" pages="25">
   <diagram name="DE4_(1)" id="AzXA56BuVil3oWB663ov">
     <mxGraphModel dx="4388" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -6227,7 +6227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DE4_ENDE" id="8npvftVhZ3sffWnKYqq-">
-    <mxGraphModel dx="3249" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="3906" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="2ke3_KxWStDCt_uZELF5-0" />
         <mxCell id="2ke3_KxWStDCt_uZELF5-1" parent="2ke3_KxWStDCt_uZELF5-0" />
@@ -7127,8 +7127,8 @@
             <mxPoint x="37.35000000000002" y="7.519999999999982" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qL61d6M4WCkrXzJGBPxd-0" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;aspect=fixed;" vertex="1" parent="2ke3_KxWStDCt_uZELF5-1">
-          <mxGeometry x="-596.35" y="507.33" width="26" height="26" as="geometry" />
+        <mxCell id="qL61d6M4WCkrXzJGBPxd-0" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1.5;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;aspect=fixed;" vertex="1" parent="2ke3_KxWStDCt_uZELF5-1">
+          <mxGeometry x="-595.35" y="508.33" width="26" height="26" as="geometry" />
         </mxCell>
         <object label="Ebene2" id="2ke3_KxWStDCt_uZELF5-218">
           <mxCell parent="2ke3_KxWStDCt_uZELF5-0" />
@@ -7141,8 +7141,8 @@
         </mxCell>
         <mxCell id="qL61d6M4WCkrXzJGBPxd-1" value="" style="endArrow=none;html=1;rounded=0;flowAnimation=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="2ke3_KxWStDCt_uZELF5-218">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-598.35" y="541.33" as="sourcePoint" />
-            <mxPoint x="-568.35" y="541.33" as="targetPoint" />
+            <mxPoint x="-597.35" y="540.33" as="sourcePoint" />
+            <mxPoint x="-567.35" y="540.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2ke3_KxWStDCt_uZELF5-221" value="Ebene1" parent="2ke3_KxWStDCt_uZELF5-0" />
