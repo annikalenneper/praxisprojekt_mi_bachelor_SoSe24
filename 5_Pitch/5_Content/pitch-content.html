@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Der Assistenzplaner: Digitales Dienstplan-Management für die Persönliche Assistenz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header, main, footer {
+            padding: 20px;
+            margin: 10px auto;
+            max-width: 1200px;
+        }
+        h1, h2, h3 {
+            color: #333;
+            text-transform: uppercase;
+        }
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+        .infobox {
+        padding: 20px;
+        margin: 20px 0;
+        border-radius: 5px; 
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+        }
+        .infobox h3 {
+            margin-top: 0;
+        }                       
+        .infobox p {
+            margin: 0;
+            color: #333; 
+        }
+        .mockup {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Der Assistenzplaner: 
+        Digitales Dienstplan-Management für die Persönliche Assistenz</h1>
+</header>
+
+<main>
+
+    <section id="introduction">
+        <section id="overview">
+            <h2>Projekt-Überblick</h2>
+            <p>Persönliche Assistenz bedeutet Freiheit, Selbstbestimmung, ein Leben in den eigenen vier Wänden ohne Bevormundung oder Einschränkungen durch die zeitliche Taktung von Pflegedienstleistungen. Assistenz bedeutet jedoch auch Arbeitsaufwand. Das eigene Assistenzteam zu managen, regelmäßig Dienstpläne zu schreiben und dabei den Überblick über Stundenvereinbarungen, Urlaube oder besondere Vorhaben nicht zu verlieren, ist keine einfache Aufgabe. </p>
+            <p>Mit der Entwicklung eines spezialisierten digitalen Dienstplanungssystems möchte ich dazu beitragen, den Zeit- und Nervenaufwand, der mit den Planungsaufgaben in der Persönlichen Assistenz einhergeht, zu verringern und mehr Platz für die schönen Dinge im Leben zu schaffen.</p>
+        </section>
+
+        <section id="goal">
+            <div>
+                <h3>Ziel</h3>
+                <p>Das Ziel des Projekts besteht darin, ein unabhängiges, barrierefreies und sicheres Dienstplanungs- und Verwaltungssystem zu entwickeln, das den besonderen Anforderungen der Domäne „Persönliche Assistenz“ gerecht wird. </p>
+            </div>
+
+            <div>
+                <p><b>Zielgruppe:</b> Der Assistenz-Planer richtet sich an Assistenznehmer*innen im Arbeitgebermodell ebenso wie an Assistenzfirmen und jede dienstplanende Person in diesem Bereich, die ihren Arbeitsaufwand rund um die Organisation der Persönlichen Assistenz reduzieren möchte.</p>
+            </div>
+            
+            <div>
+                <p><b>Technische Umsetzung:</b> Das System wird als Multi-Plattform-App realisiert. Es soll auf allen gängigen Betriebssystemen funktionieren und von jedem verwendet werden können, unabhängig von den individuellen Fähigkeiten.</p>
+            </div>
+        </section>
+
+        <section id="principles">
+            <div>
+                <h3>Grundlegende Prinzipien</h3>
+                <p>Das Projekt ist von fünf grundlegenden Prinzipien geprägt, die in allen Entwicklungsphasen leitgebend sind:</p>
+            </div>
+            <div>
+                <dl>
+                    <dt>Sicherheit und Transparenz</dt>
+                    <dd>
+                        <p>Niemand sollte dazu gezwungen sein, personenbezogene Daten oder gar Einblicke in die persönliche Tagesgestaltung preiszugeben. </p>
+                        <p>Die erste Version des digitalen Assistenzplaners wird daher als lokale App und Offline-Anwendung realisiert, sämtliche Daten werden lokal auf dem Endgerät der Nutzer*innen gespeichert. Ein digitales Abgreifen von Daten durch Dritte ist somit ausgeschlossen. </p>
+                        <p>Gemäß dem Prinzip der Datensparsamkeit werden nur solche Daten benötigt, die für die Funktion des Planers relevant sind. So ist beispielsweise die Angabe von Klarnamen keine Voraussetzung für die Nutzung – es kann ebenso mit Pseudonymen oder Kürzeln gearbeitet werden. </p>
+                        <p>Informationspflichten werden ernst genommen: Bei der möglichen Einbindung neuer Features, die eine Internetverbindung voraussetzen, werden Nutzer*innen immer die Freiheit der Wahl haben und umfassend informiert werden. Es wird jederzeit nachvollziehbar sein, welche Daten vom System gespeichert oder verarbeitet werden. </p>
+                    </dd>
+                    <dt>Benutzer*innen-Autonomie</dt>
+                    <dd>
+                        <p>Der Assistenzplaner soll das Recht auf Selbstbestimmung und Autonomie fördern, statt es durch schwer verständliche oder unkontrollierbare Automatisierungsprozesse zu unterlaufen. Daher wird den Nutzer*innen stets die volle Kontrolle über sämtliche Abläufe und Entscheidungen gegeben. </p>
+                        <p>Zahlreiche Anpassungsmöglichkeiten sorgen dafür, dass Nutzer*innen selbst bestimmen, welche Kriterien bei der Dienstplan-Generierung relevant sind, ob der generierte Plan den eigenen Ansprüchen genügt oder ob einzelne Zuordnungen von Assistent*innen zu Arbeitsschichten manuell erfolgen sollen.</p>
+                    </dd>
+                    <dt>Inklusion und Barrierefreiheit</dt>
+                    <dd>
+                        <p>Jedes technische System sollte volle Barrierefreiheit gewährleisten, unabhängig davon, ob es sich speziell an Menschen mit Behinderung richtet oder nicht. </p>
+                        <p>Barrierefreie Designprinzipien werden in der Design- und Implementierungsphase besonders im Fokus stehen, um sicherzustellen, dass die App für alle zugänglich und uneingeschränkt nutzbar ist. Da Fähigkeiten und Einschränkungen immer individuell sind, wird es keine „One-size-fits-all“-Lösung geben, sondern ein flexibles Angebot aus erprobten Funktionen und Maßnahmen.</p>
+                    </dd>
+                    <dt>Einfachheit und Effizienz</dt>
+                    <dd>
+                        <p>Einfachheit und Effizienz sind Schlüsselelemente des Dienstplaners, um den Arbeitsaufwand von Assistenznehmer*innen und anderen Dienstplanenden zu minimieren. Das Ziel besteht darin, ein intuitives und benutzerfreundliches Design zu schaffen, das eine einfache Navigation und schnelle Erledigung von Aufgaben ermöglicht. </p>
+                        <p>Klar strukturierte Menüs, verständliche Anleitungen und eine übersichtliche Benutzungsoberfläche reduzieren die Lernkurve und sparen wertvolle Zeit. </p>
+                        <p>Die Nutzung der App soll leicht von der Hand gehen und Spaß machen!</p>
+                    </dd>
+                    <dt>Soziale Verantwortung</dt>
+                    <dd>
+                        <p>Der Reproduktion paternalistischer, diskriminierender und ableistischer Denk- und Deutungsmuster soll durch die intensive Auseinandersetzung mit der Thematik und die enge Zusammenarbeit mit Betroffenen aktiv entgegengewirkt werden. Es herrscht eine offene Kritik-Kultur - bitte weist mich auf mögliche Fehler, Unzulänglichkeiten, untreffende Formulierungen oder Ansätze hin! Auch externe Mitwirkende sollen durch entsprechende Informationsangebote sensibilisiert werden.</p>
+                        <p>Der Assistenzplaner entsteht in dem Bewusstsein, dass Menschen mit Behinderung in einer Welt, die viel zu häufig ihre Bedürfnisse unberücksichtigt lässt, einen erhöhten Arbeits- und Organisationsaufwand zu stemmen haben. Deshalb sollen die Basisfunktionen des Planers, unabhängig davon, wie sich das Projekt in Zukunft entwickelt, für Assistenznehmer*innen grundsätzlich kostenfrei bleiben.</p>
+                        <p>Die Einhaltung gerechter Standards für die Assistent*innen und das Eingehen auf individuelle Wünsche werden, wo möglich, in die Planung einbezogen. Die Verwaltung des Assistenzteams, die Assistent*innen-Profile und die Auswertung von Daten für die Statistik werden so gestaltet, dass sie nicht zu einer Schlechter- oder Besserstellung einzelner Assistenznehmer*innen verleiten.</p>
+                    </dd>
+                </dl>
+            </div> 
+        </section>
+    </section>
+
+    <section id="process">
+        <section id="process-intro">
+            <h2>Projekt-Ablauf</h2>
+            <p>Die Entwicklung des Assistenzplaners erfolgt nach modernen Softwareentwicklungs-Methoden und durchläuft verschiedene Phasen mit unterschiedlichen Schwerpunkten und Techniken. Der Ablauf ist dabei nicht linear, sondern explizit agil und flexibel. Ergebnisse aus vorangegangenen Phasen werden laufend evaluiert und an neue Erkenntnisse angepasst. </p>
+            <p>Zukünftige Nutzer*innen werden während der gesamten Entwicklungstätigkeit aktiv eingebunden. Das ermöglicht, veränderte Anforderungen oder Wünsche nach neuen Funktionalitäten noch während des laufenden Prozesses zu berücksichtigen.</p>
+        </section>
+
+        <div>
+            <dl>
+                <dt>Recherche</dt>
+                <dd><p>Definition für Begriff 1</p></dd>
+                <dt>Analyse</dt>
+                <dd><p>Definition für Begriff 2</p></dd>
+                <dt>Ideenentwicklung</dt>
+                <dd><p>Definition für Begriff 3</p></dd>
+                <dt>Entwurf</dt>
+                <dd><p>xxxxxx</p></dd>
+                <dt>Design</dt>
+                <dd><p>xxxx</p></dd>
+                <dt>Implementierung</dt>
+                <dd><p>xxxxxxxxxxx</p></dd>
+                <dt>Evaluation</dt>
+                <dd><p>xxxxxxxx</p></dd>
+            </dl>
+       </div>      
+        <!--Grafische Darstellung? Zentrale Fragestellungen und Artefakte auflisten?-->
+    </section>
+
+    <section id="scope">
+        <section id="scope-intro">
+            <h2>Projektumfang</h2>
+            <p>Im Zuge der Recherche- und Analyse-Phasen ist eine große Vielzahl an Anforderungen im Bereich der Persönlichen Assistenz zutage getreten. </p>
+            <p>Da es weder möglich noch sinnvoll ist, alle ermittelten Anforderungen zeitgleich zu adressieren, findet in der Entwurfs-Phase eine begründete Selektion statt. Der gesetzte Rahmen bestimmt die Möglichkeiten und Grenzen des zukünftigen Systems. </p>
+            <p>Der Assistenz-Planer wird sich zunächst auf einen Bereich konzentrieren, in dem digitale Lösungen zeitnah einen signifikanten Mehrwert bieten können: Das Erstellen und Verwalten von Dienstplänen.</p>
+        </section>
+
+        <div class="infobox">
+            <h3>Info-Box</h3>
+            <p>Die Aspekte der hier vorgestellten Anforderungsbereiche sind lösungsneutral formuliert und beschreiben den Ist-Zustand innerhalb der Domäne „Persönliche Assistenz“. </p>
+            <p>Abgeleitete Lösungsansätze werden im Anschluss unter Funktionen vorgestellt.</p>
+        </div>
+
+        <section id="requirements">
+            <div>
+                <h3>Adressierte Anforderungsbereiche</h3>
+                <p>Als Grundlage für die Entwicklung des Assistenz-Planers wurden folgende Anforderungsbereiche ausgewählt:</p>
+            </div>
+
+            <div>
+                <dl>
+                    <dt>Verfügbarkeiten</dt>
+                    <dd><p>Zu welchen Daten und Schichten sind die Assistent*innen einsatzbereit?</p></dd>
+                    <dt>Dienstplan erstellen</dt>
+                    <dd><p>Assistent*innen werden auf Grundlage der Verfügbarkeiten, der vereinbarten Arbeitsstunden und des eigenen Bedarfs den Arbeitsschichten zugeteilt.</p></dd>
+                    <dt>Dienstplan verwalten</dt>
+                    <dd><p>Die tatsächliche Arbeitszeit kann durch Ausfälle, Tauschanfragen oder (geplante wie ungeplante) Änderungen von Schichtbeginn oder Schichtende von der geplanten Zeit abweichen.</p> </dd>
+                    <dt>Besondere Anforderungen</dt>
+                    <dd><p>Nicht jede Assistenz ist für jede Aufgabe oder Unternehmung gleich gut geeignet.</p></dd>
+                    <dt>Stundenverteilung  </dt>
+                    <dd><p>Erreichen alle Assistent*innen die ihnen zugesicherte Zahl an Arbeitsstunden? Wie sieht es mit Urlaubsansprüchen aus?</p> </dd>
+                    <dt>Arbeitszeitdokumentation</dt>
+                    <dd><p>Nachweise über geleistete Stunden müssen an Kostenträger übermittelt, Abrechnungen für Assistent*innen ausgestellt werden.</p></dd>      
+                </dl>
+            </div>
+        </section>
+            
+        <section id="outside-scope">
+            <div>
+                <h3>Nicht im Projektumfang enthalten</h3>
+                <p>Folgende Anforderungsbereiche werden vorerst keine Rolle bei der Entwicklung des Planers spielen:</p>
+            </div>
+            
+            <div>
+                <dl>
+                    <dt>Kommunikation mit dem Team</dt>
+                    <dd>
+                        <p>Die Organisation der Assistenz erfordert regelmäßige Absprachen und eine funktionierende Kommunikation zwischen Assistenznehmer*in, ggf. Teamleitung sowie innerhalb des Teams. </p>
+                        <p>Die gewählten Kommunikationskanäle müssen die rechtlichen Datenschutzrichtlinien einhalten.</p>
+                    </dd>
+
+                    <dt>Buchhaltung und Finanzen</dt>
+                    <dd>
+                        <p>Zur Organisation der Persönlichen Assistenz gehören auch Aspekte wie das Ausstellen von Arbeitsverträgen und Abrechnungen, das Auszahlen der Gehälter oder das Abführen von Sozialversicherungs- und Krankenkassenbeiträgen.</p></dd>
+
+                    <dt>Kostenträger</dt>
+                    <dd>
+                        <p>Die Gehälter der Assistent*innen, die Dienstleistungen von Assistenznehmer*innen und andere Organisationshilfen wie Lohnbüros werden aus dem Persönlichen Budget der Assistenznehmer*in gezahlt, welches von Kostenträgern wie x, y oder z bereitgestellt wird.</p></dd>
+
+                    <dt>Behördenangelegenheiten</dt>
+                    <dd>xxxxxxxx</dd>
+                </dl>
+            </div>
+        </section>
+
+        <div class="infobox">
+            <h3>Info-Box</h3>
+            <p>Durch eine zunehmende Detaillierung und Formalisierung der Anforderungen lässt sich ermitteln, was genau ein erfolgreiches System zur Dienstplangestaltung und -verwaltung in der Persönlichen Assistenz leisten muss.</p>
+            <p>Interessierte finden hier eine detaillierte Auflistung der sprachlich formalisierten Anforderungen.</p>
+        </div>
+
+    </section>
+
+
+    <section id="functionalities">
+        <section id="functionalities-intro">
+            <h2>Funktionen</h2>
+            <p>Bisher haben wir uns mit dem Kontext des Projekts, Informationen zum Entwicklungsprozess und den adressierten Anforderungsbereichen beschäftigt.</p> 
+            <p>Jetzt wird es spannend: Wir widmen uns den zukünftigen Funktionen des Planungssystems!</p>
+        </section>
+
+        <section id="first-version">
+            <div>
+                <h3>FUNKTIONEN DER 1. VERSION DES PLANERS</h3>
+                <p>Folgende Funktionen sollen in der ersten Phase der Implementierung umgesetzt werden:</p>
+            </div>
+
+            <div>
+                <dl>
+                    <dt>Eingabe der Verfügbarkeiten</dt>
+                    <dd>
+                        <p>Komfortable Eingabe der Verfügbarkeiten über die Benutzeroberfläche</p>
+                        <p>Nutzung der Scan-Funktion des Smartphones für automatische Vor-Ausfüllungen</p>
+                    </dd>
+                    <dt>Generieren von Dienstplänen</dt>
+                    <dd>
+                        <p>Teilautomatisiertes Erstellen von Dienstplänen </p>
+                        <p>Optimierte Zuteilung der Assistent*innen zu Schichten auf Grundlage</p>
+                        <ul>
+                            <li>der getroffenen Voreinstellungen (z. B. Möglichkeit von Doppeldiensten oder Aufteilung von Schichten)</li>
+                            <li>der Verfügbarkeiten</li>
+                            <li>der geplanten und tatsächlich geleisteten Stundenanzahl der Assistent*innen</li>
+                            <li>der zugeordneten Tags</li>
+                            <li>einer fairen Verteilung von Wochenenden, Feiertagen und Zuschlagsfenstern</li>
+                            <li>einer ausgeglichenen Verteilung mit ausreichenden Abständen zwischen zwei Einsätzen</li>
+                        </ul>
+                    <dt>Verwalten aktueller Dienstpläne</dt>
+                    <dd>
+                        <p>Möglichkeit, Schichtzeiten und Zuordnungen laufend zu bearbeiten</p>
+                        <p>Grundlage für die Dokumentation der geleisteten Arbeitszeit</p>
+                        <p>Gezielte Suche nach Ersatz bei Ausfällen: Anzeige derjenigen Assistent*innen, die ihre Verfügbarkeit für die betroffene Schicht angegeben haben</p>
+                    </dd>
+                    <dt>Anlegen und Verwalten des Assistenzteams</dt>
+                    <dd>
+                        <p>Erstellen von Assistent*innen</p>
+                        <p>Festlegen der geplanten Stundenanzahl oder eines Stundenintervalls</p>
+                        <p>Automatischer Abgleich zwischen geplanter und geleisteter Stundenzahl</p>
+                        <p>Anlegen von Notizen</p>
+                    </dd>
+                    <dt>Tags</dt>
+                    <dd>
+                        <p>Erstellen von Tags für gezieltes Matchen von Tagesanforderungen und Assistenzen</p>
+                        <p>Flexible Zuordnung der erstellten Tags zu Assistent*innen, Schichten oder Wochentagen</p>
+                    </dd>
+                    <dt>Aktivieren, Deaktivieren und Priorisieren der Dienstplankriterien </dt>
+                    <dd>
+                        <p>Was ist möglich – und was nicht? Was muss unbedingt beachtet werden, was ist optional? </p>
+                        <p>Die Konfigurationsmöglichkeiten betreffen</p>
+                        <ul>
+                            <li>die Möglichkeit von Doppelschichten</li>
+                            <li>die Möglichkeit, Schichten auf zwei Assistent*innen aufzuteilen</li>
+                            <li>den Ausgleich von Differenzen zwischen Stundensoll und geleisteten Stunden</li>
+                            <li>das Tag-Matching</li>
+                            <li>die Verteilung von Wochenenden, Feiertagen und Zuschlagsfenstern</li>
+                            <li>die Abstände zwischen zwei Schichten</li>
+                        </ul>
+                    </dd>              
+                </dd>
+            </dl>
+        </div>
+
+        <section id="extensions">
+            <div>
+                <h3>GEPLANTE ERWEITERUNGEN</h3>
+                <p>Folgende Funktionen stellen eine Auswahl an möglichen Erweiterungen dar. Sie sollen im Anschluss an die Evaluation der ersten Version durch die Nutzer*innen in weiteren Implementierungsphasen nach und nach umgesetzt werden.</p>
+            </div>
+
+            <div>
+                <dl>
+                    <dt>Importieren von Verfügbarkeiten</dt>
+                    <dd>
+                        <p>Vollständige Import-Möglichkeit über speziell angefertigte Formulare, die von den Assistent*innen ausgefüllt und eingereicht werden können</p>
+                        <p>Vollständige oder teilweise Import-Möglichkeit unter Einbindung von Umfrage-Tools*</p>
+                    </dd>
+                    <dt>Priorisierung von Verfügbarkeitsangaben</dt>
+                    <dd>
+                        <p>Angabe von Prioritäten seitens der Assistent*innen</p>
+                        <p>Neben “verfügbar” und “nicht verfügbar“ soll auch „verfügbar, falls nicht anders möglich“ angegeben werden können</p>
+                        <p>Die Möglichkeit der Priorisierung von Verfügbarkeitsangaben ist optional und kann von der dienstplanenden Person aktiviert oder deaktiviert werden</p>
+                    </dd>
+                    <dt>Verwaltung mehrerer Assistenzteams für Assiszenzfirmen</dt>
+                    <dd>
+                        <p>Anlegen mehrerer Assistenzteams für verschiedene Assistenznehmer*innen </p>
+                        <p>Personale Überschneidungen möglich: Assistent*innen können in mehr als einem Team eingesetzt werden</p>
+                        <p>Einmalige Angabe der Verfügbarkeiten pro Assistent*in für die Generierung mehrerer Dienstpläne</p>
+                    </dd>
+                    <dt>Generieren von Notfall-/ Backup-Dienstplänen</dt>
+                    <dd>
+                        <p>Teilautomatisiertes Erstellen von Notfall-Dienstplänen auf Grundlage der Verfügbarkeitsangaben und gesondert festzuhaltender Kriterien</p>
+                    </dd>
+                    <dt>Berechnung von Urlaubsansprüchen</dt>
+                    <dd>
+                        <p>Integration von Informationen zu Urlaubsansprüchen der Assistent*innen auf den jeweiligen Profilen</p>
+                        <p>Eingabe des vertraglich festgelegten Urlaubsanspruchs und laufende Aktualisierung bei genehmigten Urlaubsanträgen oder Auszahlungen</p>
+                        <p>Möglichkeit der flexiblen Berechnung auf Grundlage der Vertragsbedingungen und der dokumentierten Arbeitsstunden</p>
+                    </dd>
+                    <dt>Statistiken</dt>
+                    <dd>
+                        <p>Einblicke und Visualisierungen wichtiger Aspekte der Dienstplangestaltung</p>
+                        <dl>
+                            <dt>Wie sicher ist die Bedarfsdeckung?</dt>
+                            <dd>
+                                <p>Einerseits: Verhältnis zwischen vertraglich festgehaltenem Angebot (der Summe der vereinbarten Arbeitsstunden) und Bedarf (Summe aller Schichten) unter Berücksichtigung von Urlaubsansprüchen und möglichen krankheitsbedingten Ausfällen</p>
+                                <p>Andererseits: Wie gut decken die eingereichten Verfügbarkeitsangaben und deren Verteilung den Bedarf ab? </p>
+                            </dd>
+                            <dt>Welche Schwierigkeiten oder Konflikte bei der Dienstplangenerierung treten wie häufig auf?</dt>
+                            <dd> <p></p></dd>
+                            <dt>Welche nachträglichen Änderungen treten wie häufig auf?</dt>
+                            <dd><p></p></dd>
+                            <dt>Erfüllen die erstellten Tags ihre Funktion? Wie hoch ist die Matching-Quote?</dt>
+                            <dd><p></p></dd>
+                        </dl>
+                    </dd>
+                    <dt>Abgeleitete Empfehlungen</dt>
+                    <dd>
+                        <p>Wann sollte über Neuanstellungen nachgedacht werden, um die Bedarfsdeckung weiterhin sicherzustellen?</p>
+                        <p>Wie hoch muss die Anzahl der verfügbaren Tage pro Assistent*in unter Berücksichtigung der vertraglich vereinbarten Arbeitszeit sein, um die Bedarfsdeckung sicherzustellen?</p>
+                        <p>Wie lassen sich häufig auftretende Konflikte vermeiden?</p>
+                        <p>Empfehlungen für den Umgang mit Tags</p>
+                    </dd>
+                    <dt>Nützliche Hilfsfunktionen</dt>
+                    <dd>
+                        <p>Erinnerungen an die anstehende Dienstplanung</p>
+                        <p>Benachrichtigungen bei Gefährdung der Bedarfsdeckung</p>
+                        <p>Benachrichtigungen zu fehlenden Verfügbarkeitsangaben</p>
+                        <p>Informationsangebote und Konfigurations-Empfehlungen</p>
+                    </dd>
+                </dl>
+            </div>
+        </section>    
+        
+            
+        <div>
+            <p>   *Externe Anwendungen müssen den hohen Datenschutzstandards des Projekts entsprechen. Mögliche Umfrage-Tools werden in den Phasen „Technische Spezifikation“ und „Implementierung“ diskutiert, hinsichtlich ihrer Eignung bewertet und gegebenenfalls getestet.</p>
+        </div>
+
+        <section id="future">
+            <div>
+                <h3>Perspektiven für die Zukunft</h3>
+                <p>Perspektivisch ist eine Erweiterung der Anwendung denkbar, die zusätzliche Funktionen bereitstellt und zunehmend in bestehende Abläufe integriert werden kann. </p>
+                <p> Folgende Funktionen lassen sich aus der erweiterten Analyse der nicht-adressierten Anforderungsbereiche (s. o.) ableiten und sind vorerst nicht Teil des Projekts:</p>
+            </div>
+
+            <div>
+                <dl>
+                    <dt>Synchronisierung über verschiedene Endgeräte*</dt>
+                    <dd>
+                        <p>Möglichkeit der Nutzung des Planers auf mehr als einem Endgerät</p>
+                        <p>Möglichkeit der Nutzung durch mehr als eine Person (z. B. Assistenznehmer*in und Teamleitung)</p>
+                    </dd>
+                    <p> *Die automatische Synchronisation erfordert eine Verbindung mit dem Internet. Datenschutzbezogene Implikationen werden in den Phasen „Technische Spezifikation“ und „Implementierung“ diskutiert und bewertet. Eine manuelle Synchronisation über Daten-Import und -Export ist prinzipiell möglich, kann jedoch bei paralleler Nutzung auf zwei Endgeräten leicht zu Konflikten führen.</p>
+                    <dt>Interaktive Nutzung </dt>
+                    <dd>
+                        <p>Die Anwendung richtet sich an die dienstplanende Person. Verschiedene Nutzer*innen-Rollen (etwa Assistenznehmer*in, Teamleitung, Assistent*in) oder die Einrichtung interner Kommunikations-Kanäle für Erinnerungen, Tausch-Anfragen oder Krankmeldungen sind vorerst nicht vorgesehen.</p>
+                    </dd>
+                    <dt>Buchhaltung und Finanzen</dt>
+                    <dd>
+                        <p>In der ersten Version wird es voraussichtlich noch keine Möglichkeit geben, vollständige Abrechnungen gemäß den Vertragsgrundlagen und rechtlichen Vorgaben generieren zu lassen. </p>
+                        <p>Es sollen jedoch Stunden-Übersichten mit Kalenderdaten, Arbeitszeiten und Zuschlagsfenstern exportiert werden können, die sich als Grundlage für die weitere Verwendung eignen.</p>
+                    </dd>
+                    <dt>Anbindung an Krankenkassen- oder Behördensysteme</dt>
+                    <dd>
+                        <p>Eine Anbindung an Kostenträger oder eine Integration in behördliche Prozesse setzt weitere umfangreiche Recherchen voraus und kann unter den beschriebenen Voraussetzungen der ersten Version des Planers nicht geleistet werden. </p>
+                        <p>Diese Aspekte können erneut diskutiert werden, wenn sich die Nützlichkeit und Bedarfsgerechtigkeit des Assistenzplaners in der Praxis ausreichend bewährt hat.</p>
+                    </dd>
+                    </dl>
+            </div>
+        </section>
+    </section>
+
+    <section id="interactive-mockups">
+        <h2>Interaktive Mockups</h2>
+        <div class="mockup">
+            <h3>Mockup 1: Startbildschirm</h3>
+            <p>Beschreibung des Startbildschirms...</p>
+            <!-- Mockup einbetten -->
+        </div>
+        <div class="mockup">
+            <h3>Mockup 2: Dienstplan erstellen</h3>
+            <p>Interaktiver Use Case</p>
+            <!--Mockup einbetten -->
+        </div>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Annika Lenneper. Alle Rechte vorbehalten.</p>
+</footer>
+
+</body>
+</html>
