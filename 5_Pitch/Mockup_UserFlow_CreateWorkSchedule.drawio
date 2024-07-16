@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T20:02:05.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WR2Cid6V2BpSjqt9SC5R" version="24.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-16T20:06:48.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9ZiarKWOz6wC8l97Gzye" version="24.6.5" type="github" pages="5">
   <diagram name="Vorlage_mitMenü" id="O6_ijz0x88URvbkc5MyA">
     <mxGraphModel dx="3603" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -1765,7 +1765,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SE_SchichtAufteilen" id="W9IFunpEaPG3G5H1OCiD">
-    <mxGraphModel dx="2610" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="4044" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0Ah3Lm-utXkAHUfo2LFl-0" />
         <mxCell id="bg" value="Ebene1" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
@@ -3207,7 +3207,7 @@
           </mxGeometry>
         </mxCell>
         <object label="27-aufgeteilt" id="27-a">
-          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
+          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" />
         </object>
         <mxCell id="nRtWeP-6K-zcv-lk_-41-482" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#333333;" vertex="1" parent="27-a">
           <mxGeometry x="-762" y="1085" width="30" height="45" as="geometry" />
