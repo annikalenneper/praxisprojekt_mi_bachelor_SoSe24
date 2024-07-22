@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T11:01:29.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7aNn07vTp-ggTslM8UtG" version="24.6.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-22T11:01:33.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TJDI4_l-8dIcMUF1hVBM" version="24.6.5" type="github" pages="7">
   <diagram name="Vorlage_mitMenü" id="O6_ijz0x88URvbkc5MyA">
     <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -4091,7 +4091,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xzGUwClctAHI0IO_y_qt" name="VE_1">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel dx="3837" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="" id="hg">
