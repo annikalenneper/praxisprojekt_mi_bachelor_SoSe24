@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T08:04:00.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Yf3FHMopAkbu7z8rUzmo" version="24.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-22T08:05:03.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0IRkV8X8IbX5trJNAPXr" version="24.6.5" type="github" pages="6">
   <diagram name="Vorlage_mitMenü" id="O6_ijz0x88URvbkc5MyA">
     <mxGraphModel dx="3603" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -388,7 +388,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SE_AssistentinZuordnen" id="BtMG5foGEkJ4_LGUI9ZQ">
-    <mxGraphModel dx="4617" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="rVMkiw2JLN9jALtLbmhH-0" />
         <object label="" id="bg">
@@ -1751,7 +1751,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SE_SchichtAufteilen" id="W9IFunpEaPG3G5H1OCiD">
-    <mxGraphModel dx="4617" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0Ah3Lm-utXkAHUfo2LFl-0" />
         <mxCell id="bg" value="Ebene1" style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
@@ -3296,7 +3296,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9E7I-OlYN3A_QED6pQBX" name="VE">
-    <mxGraphModel dx="4617" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Hintergrund" id="bg">
