@@ -2767,7 +2767,7 @@
           <mxGeometry y="44" width="150" height="80" as="geometry" />
         </mxCell>
         <object label="SchichtBearbeiten" id="sb">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <UserObject label="" id="J6uDSxVn9LI7FWs5KzY--235">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;arcSize=3;" parent="sb" vertex="1">
@@ -2974,7 +2974,7 @@
           <mxGeometry x="25" width="19" height="19" as="geometry" />
         </mxCell>
         <object label="schichtAufteilen" id="sAufteilen">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <mxCell id="hsBDdTxxfULZdPD9IdQP-0" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SCHICHT AUFTEILEN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="sAufteilen" vertex="1">
           <mxGeometry x="-962" y="804" width="270" height="40" as="geometry" />
@@ -3113,7 +3113,7 @@
           </mxGeometry>
         </mxCell>
         <object label="back" id="back">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <mxCell id="aFxgWtyhxUjnG1IIDmSn-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fafafa;opacity=80;strokeColor=none;shadow=1;rotation=-180;arcSize=0;" parent="back" vertex="1">
           <mxGeometry x="-1121" y="1260" width="35" height="35" as="geometry" />
@@ -3124,7 +3124,7 @@
           </mxCell>
         </UserObject>
         <object label="close" id="x">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;sb&quot;,&quot;schicht&quot;,&quot;sNeu&quot;,&quot;sAufteilen&quot;,&quot;aufgeteilt&quot;,&quot;x&quot;,&quot;back&quot;]},&quot;show&quot;:{&quot;cells&quot;:[&quot;bg&quot;]}}]}" id="J6uDSxVn9LI7FWs5KzY--236">
           <mxCell style="group;strokeWidth=1;aspect=fixed;" parent="x" vertex="1" connectable="0">
@@ -3166,7 +3166,7 @@
           </mxGeometry>
         </mxCell>
         <object label="27-aufgeteilt" id="27-a">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
         </object>
         <mxCell id="nRtWeP-6K-zcv-lk_-41-482" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#333333;" parent="27-a" vertex="1">
           <mxGeometry x="-762" y="1085" width="30" height="45" as="geometry" />
@@ -3192,9 +3192,11 @@
             <mxPoint x="-706" y="1093" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CAF4IzliricOb0y2VzTu-0" value="clock-base" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+        <object label="clock-base" id="clock-base">
+          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
+        </object>
         <UserObject label="" tags="" id="cNhr3tuftbtci3kVnjOX-7">
-          <mxCell style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=1;aspect=fixed;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=1;aspect=fixed;" parent="clock-base" vertex="1">
             <mxGeometry x="-1083" y="893" width="512" height="304" as="geometry" />
           </mxCell>
         </UserObject>
@@ -3243,7 +3245,7 @@
             <mxGeometry x="315" y="16" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="OK" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;sb&quot;,&quot;schicht&quot;,&quot;x2&quot;,&quot;aufgeteilt&quot;,&quot;sNeu&quot;,&quot;x2&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;x&quot;,&quot;sAufteilen&quot;,&quot;back&quot;,&quot;h1&quot;,&quot;h2&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot; ]}}]}" tags="" id="cNhr3tuftbtci3kVnjOX-24">
+        <UserObject label="OK" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;sb&quot;,&quot;schicht&quot;,&quot;x2&quot;,&quot;aufgeteilt&quot;,&quot;sNeu&quot;,&quot;x2&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;x&quot;,&quot;sAufteilen&quot;,&quot;back&quot;,&quot;h1&quot;,&quot;h2&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;, &quot;clock-base&quot; ]}}]}" tags="" id="cNhr3tuftbtci3kVnjOX-24">
           <mxCell style="text;fontSize=16;fontColor=#333333;spacingTop=0;whiteSpace=wrap;spacing=0;verticalAlign=middle;align=center;fontStyle=1;html=1;" parent="cNhr3tuftbtci3kVnjOX-7" vertex="1">
             <mxGeometry x="1" y="1" width="90" height="50" relative="1" as="geometry">
               <mxPoint x="-90" y="-50" as="offset" />
@@ -3251,7 +3253,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="" id="cNhr3tuftbtci3kVnjOX-11">
-          <mxCell style="shape=ellipse;fillColor=#eeeeee;strokeColor=none;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="shape=ellipse;fillColor=#eeeeee;strokeColor=none;" parent="clock-base" vertex="1">
             <mxGeometry x="-855" y="909" width="225" height="224" as="geometry" />
           </mxCell>
         </UserObject>
@@ -3266,62 +3268,62 @@
           </mxCell>
         </UserObject>
         <UserObject label="12" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h12&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h2&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-46">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-768" y="909" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="11" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h11&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h2&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-45">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-812" y="923" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="10" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h10&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h2&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-44">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-845" y="956" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="9" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h9&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h2&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-43">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-862" y="1001" width="49" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="8" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h8&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h2&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-42">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-847" y="1043" width="49" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="7" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h7&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h2&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-41">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-812" y="1079" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="6" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h6&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h2&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-40">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-768" y="1093" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="5" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h5&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h2&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-39">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-725" y="1079" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="4" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h4&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h2&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-38">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-689" y="1043" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="3" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h3&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h2&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-35">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-674" y="1001" width="49" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#4d4d4d&quot;&gt;2&lt;/font&gt;" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h2&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-36">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="clock-base" vertex="1">
             <mxGeometry x="-680" y="960" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h1&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h2&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" tags="" id="cNhr3tuftbtci3kVnjOX-13">
-          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="CAF4IzliricOb0y2VzTu-0" vertex="1">
+          <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-728" y="923" width="49" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -3727,7 +3729,7 @@
           </mxCell>
         </UserObject>
         <object label="12h" id="h12">
-          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <UserObject label="" tags="" id="cNhr3tuftbtci3kVnjOX-59">
           <mxCell style="dashed=0;shape=mxgraph.gmdl.time_picker;fillColor=#666666;strokeColor=#666666;verticalAlign=middle;align=right;fontColor=#ffffff;strokeWidth=2;spacingRight=9;fontSize=15;fontStyle=1;whiteSpace=wrap;html=1;rotation=270;" parent="h12" vertex="1">
