@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="9">
   <diagram name="Vorlage_mitMenü" id="O6_ijz0x88URvbkc5MyA">
     <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t_J28IGcNbgc4qMofjZc" name="DienstplanErstellen1_beschriftet">
-    <mxGraphModel dx="4617" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="4399" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,8 +195,8 @@
         <mxCell id="mSfASgZi-p1KMbF5nQE1-9" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=3;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;aspect=fixed;container=0;" parent="mSfASgZi-p1KMbF5nQE1-1" vertex="1">
           <mxGeometry x="645.0524428905811" y="1235.2568961306233" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="mSfASgZi-p1KMbF5nQE1-10" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;strokeWidth=5;container=0;" parent="mSfASgZi-p1KMbF5nQE1-1" vertex="1">
-          <mxGeometry x="41.9001511066339" y="1238.8235379463688" width="55" height="55" as="geometry" />
+        <mxCell id="mSfASgZi-p1KMbF5nQE1-10" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;strokeWidth=0;container=0;" parent="mSfASgZi-p1KMbF5nQE1-1" vertex="1">
+          <mxGeometry x="41.9001511066339" y="1239.8235379463688" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mSfASgZi-p1KMbF5nQE1-22" value="" style="group;strokeWidth=1;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;aspect=fixed;" parent="mSfASgZi-p1KMbF5nQE1-1" vertex="1" connectable="0">
           <mxGeometry x="493.41968682409413" y="1233.498330717536" width="66" height="55.84" as="geometry" />
@@ -302,6 +302,9 @@
         </mxCell>
         <mxCell id="mSfASgZi-p1KMbF5nQE1-15" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;fillColor=#000000;rotation=-90;gradientColor=none;container=0;" parent="mSfASgZi-p1KMbF5nQE1-1" vertex="1">
           <mxGeometry x="219.69947368421043" y="1238.2807005328925" width="6.964902368421051" height="11.39350956859841" as="geometry" />
+        </mxCell>
+        <mxCell id="GV8bca4Gz_bLeKtGbr0N-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-2/24/bxs-edit-128.png;opacity=80;" vertex="1" parent="mSfASgZi-p1KMbF5nQE1-1">
+          <mxGeometry x="460" y="125" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Nm_a-TMAgJqpMWtc5rlN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;strokeColor=#4D4D4D;" parent="dfmTvgQ1DUX2wiIWm2Y9-1" vertex="1">
           <mxGeometry x="50" y="268" width="640" height="847" as="geometry" />
@@ -794,9 +797,6 @@
             <mxPoint x="33.4020618556701" y="9.191111111111086" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tkCUwmwACtt4GSOFhs8E-243" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;fillColor=none;" vertex="1" parent="tkCUwmwACtt4GSOFhs8E-240">
-          <mxGeometry x="-71.04123711340205" y="39.13555555555553" width="6.060768011542291" height="6.060768011542291" as="geometry" />
-        </mxCell>
         <mxCell id="tkCUwmwACtt4GSOFhs8E-244" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;aspect=fixed;" vertex="1" parent="tkCUwmwACtt4GSOFhs8E-240">
           <mxGeometry x="58.574865755640836" y="8.979161021505385" width="19.449601519511134" height="19.449601519511134" as="geometry" />
         </mxCell>
@@ -914,9 +914,6 @@
             <mxPoint x="33.4020618556701" y="9.191111111111086" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tkCUwmwACtt4GSOFhs8E-276" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;fillColor=none;" vertex="1" parent="tkCUwmwACtt4GSOFhs8E-273">
-          <mxGeometry x="-71.04123711340205" y="39.13555555555553" width="6.060768011542291" height="6.060768011542291" as="geometry" />
-        </mxCell>
         <mxCell id="tkCUwmwACtt4GSOFhs8E-277" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;aspect=fixed;" vertex="1" parent="tkCUwmwACtt4GSOFhs8E-273">
           <mxGeometry x="58.574865755640836" y="8.979161021505385" width="19.449601519511134" height="19.449601519511134" as="geometry" />
         </mxCell>
@@ -980,9 +977,6 @@
             <mxPoint x="33.4020618556701" y="9.191111111111086" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tkCUwmwACtt4GSOFhs8E-294" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;fillColor=none;" vertex="1" parent="tkCUwmwACtt4GSOFhs8E-291">
-          <mxGeometry x="6.958762886597937" y="39.13555555555553" width="6.060768011542291" height="6.060768011542291" as="geometry" />
-        </mxCell>
         <mxCell id="tkCUwmwACtt4GSOFhs8E-295" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;aspect=fixed;" vertex="1" parent="tkCUwmwACtt4GSOFhs8E-291">
           <mxGeometry x="58.574865755640836" y="8.979161021505385" width="19.449601519511134" height="19.449601519511134" as="geometry" />
         </mxCell>
@@ -1034,9 +1028,6 @@
             <mxPoint x="33.4020618556701" y="9.191111111111086" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tkCUwmwACtt4GSOFhs8E-309" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;fillColor=none;" vertex="1" parent="tkCUwmwACtt4GSOFhs8E-306">
-          <mxGeometry x="-71.04123711340205" y="39.13555555555553" width="6.060768011542291" height="6.060768011542291" as="geometry" />
-        </mxCell>
         <mxCell id="tkCUwmwACtt4GSOFhs8E-310" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;aspect=fixed;" vertex="1" parent="tkCUwmwACtt4GSOFhs8E-306">
           <mxGeometry x="58.574865755640836" y="8.979161021505385" width="19.449601519511134" height="19.449601519511134" as="geometry" />
         </mxCell>
@@ -1051,9 +1042,6 @@
             <mxPoint x="5.567010309278349" y="9.191111111111086" as="sourcePoint" />
             <mxPoint x="33.4020618556701" y="9.191111111111086" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tkCUwmwACtt4GSOFhs8E-314" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;fillColor=none;" vertex="1" parent="tkCUwmwACtt4GSOFhs8E-311">
-          <mxGeometry x="6.958762886597937" y="39.13555555555553" width="6.060768011542291" height="6.060768011542291" as="geometry" />
         </mxCell>
         <mxCell id="tkCUwmwACtt4GSOFhs8E-315" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;aspect=fixed;" vertex="1" parent="tkCUwmwACtt4GSOFhs8E-311">
           <mxGeometry x="58.574865755640836" y="8.979161021505385" width="19.449601519511134" height="19.449601519511134" as="geometry" />
@@ -8177,8 +8165,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="dPne40HuDWw9y6gOU5nt" name="Seite-8">
-    <mxGraphModel dx="4188" dy="1363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+  <diagram id="dPne40HuDWw9y6gOU5nt" name="DienstplanErstellen">
+    <mxGraphModel dx="3713" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8391,14 +8379,6 @@
         <mxCell id="Kn8SijRjHP8m-v9NrK9C-242" value="Eingetragene Verfügbarkeiten:&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;9 / 10 Assistent*innen&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Manuell zugeteilt:&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;1 / 31 Schichten&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Offen (ohne Verfügbarkeitsangabe):&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;b&gt;0 / 31 Schichten&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="445" width="589" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="LN1BVOgky0dLMtOZftA9-2" value="&lt;pre style=&quot;line-height: 100%; font-size: 20px;&quot;&gt;&lt;pre style=&quot;line-height: 100%;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;DIENSTPLAN&lt;/font&gt;&lt;/b&gt;&lt;/pre&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;GENERIEREN&lt;/font&gt;&lt;/b&gt;&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CCCCCC;shadow=1;gradientColor=#CCCCCC;gradientDirection=radial;fillColor=#4D4D4D;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=5;shadowOpacity=25;comic=0;jiggle=5;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="1186" width="200" height="200" as="geometry" />
-        </mxCell>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;wait&quot;:1000},{&quot;show&quot;:{&quot;cells&quot;:[&quot;text&quot;]}}]}" id="LN1BVOgky0dLMtOZftA9-3">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 4;strokeWidth=4;fillColor=none;shadow=1;strokeColor=#4D4D4D;" vertex="1" parent="1">
-            <mxGeometry x="-945" y="1172" width="232" height="232" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="_You9ZfkqOTvmkEiz1p5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;arcSize=3;strokeColor=#999999;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-1127" y="630" width="600" height="480" as="geometry" />
         </mxCell>
@@ -8408,19 +8388,27 @@
         <mxCell id="_You9ZfkqOTvmkEiz1p5-5" value="Konflikt-Analyse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="-1050" y="654" width="170" height="40" as="geometry" />
         </mxCell>
-        <object label="text1" id="t1">
+        <object label="button" id="button">
+          <mxCell visible="0" parent="0" />
+        </object>
+        <mxCell id="LN1BVOgky0dLMtOZftA9-2" value="&lt;pre style=&quot;line-height: 100%; font-size: 20px;&quot;&gt;&lt;pre style=&quot;line-height: 100%;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;DIENSTPLAN&lt;/font&gt;&lt;/b&gt;&lt;/pre&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;GENERIEREN&lt;/font&gt;&lt;/b&gt;&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CCCCCC;shadow=1;gradientColor=none;gradientDirection=radial;fillColor=#999999;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=5;shadowOpacity=25;comic=0;jiggle=5;" vertex="1" parent="button">
+          <mxGeometry x="-930" y="1186" width="200" height="200" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;text1&quot;]}},{&quot;wait&quot;:2500},{&quot;show&quot;:{&quot;cells&quot;:[&quot;text2&quot;]}},{&quot;wait&quot;:1000},{&quot;show&quot;:{&quot;cells&quot;:[&quot;text3&quot;]}},{&quot;wait&quot;:2500},{&quot;show&quot;:{&quot;cells&quot;:[&quot;text4&quot;]}},{&quot;wait&quot;:1000},{&quot;show&quot;:{&quot;cells&quot;:[&quot;text5&quot;]}},{&quot;wait&quot;:2500},{&quot;show&quot;:{&quot;cells&quot;:[&quot;text6&quot;,&quot;text7&quot;,&quot;text8&quot;,&quot;text9&quot;]}},{&quot;wait&quot;:&quot;1000&quot;},{&quot;show&quot;:{&quot;cells&quot;:[&quot;text7&quot;]}},{&quot;wait&quot;:&quot;500&quot;},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;button&quot;]}},{&quot;wait&quot;:&quot;1500&quot;},{&quot;show&quot;:{&quot;cells&quot;:[&quot;button2&quot;]}}]}" id="LN1BVOgky0dLMtOZftA9-3">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 4;strokeWidth=4;fillColor=none;shadow=1;strokeColor=#4D4D4D;" vertex="1" parent="button">
+            <mxGeometry x="-946" y="1171" width="232" height="232" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="text1" id="text1">
           <mxCell parent="0" />
         </object>
-        <mxCell id="_You9ZfkqOTvmkEiz1p5-6" value="Schichten werden zugeteilt...." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="t1">
+        <mxCell id="_You9ZfkqOTvmkEiz1p5-6" value="Schichten werden zugeteilt..." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="text1">
           <mxGeometry x="-1108" y="729" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_You9ZfkqOTvmkEiz1p5-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Besondere Anforderungen werden analysiert...&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="t1">
-          <mxGeometry x="-1108" y="829" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_You9ZfkqOTvmkEiz1p5-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Stundenverteilung wird analysiert...&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="t1">
-          <mxGeometry x="-1108" y="929" width="330" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_You9ZfkqOTvmkEiz1p5-16" value="" style="group" vertex="1" connectable="0" parent="t1">
+        <object label="text2" id="text2">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="_You9ZfkqOTvmkEiz1p5-16" value="" style="group" vertex="1" connectable="0" parent="text2">
           <mxGeometry x="-1106" y="755.5" width="359" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_You9ZfkqOTvmkEiz1p5-13" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Alle Schichten können besetzt weren&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="_You9ZfkqOTvmkEiz1p5-16">
@@ -8429,19 +8417,16 @@
         <mxCell id="_You9ZfkqOTvmkEiz1p5-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/20/check-circle-outline-128.png" vertex="1" parent="_You9ZfkqOTvmkEiz1p5-16">
           <mxGeometry x="1" y="11" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="URvHxCfayZx7qtIzbfvF-2" value="&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;- Gesamtstundenabweichung: &lt;b&gt;-32&lt;/b&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="t1">
-          <mxGeometry x="-1088" y="960" width="300" height="40" as="geometry" />
+        <object label="text3" id="text3">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="_You9ZfkqOTvmkEiz1p5-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Besondere Anforderungen werden analysiert...&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="text3">
+          <mxGeometry x="-1108" y="829" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="URvHxCfayZx7qtIzbfvF-3" value="&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;- Assistent*innen mit ausgeglichenem Stundenkonto: &lt;b&gt;6&lt;/b&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="t1">
-          <mxGeometry x="-1088" y="985" width="460" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="URvHxCfayZx7qtIzbfvF-4" value="&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;- Assistent*innen mit Minusstunden: &lt;b&gt;3&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="t1">
-          <mxGeometry x="-1088" y="1010" width="330" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="URvHxCfayZx7qtIzbfvF-5" value="&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;- Assistent*innen mit Überstunden: &lt;b&gt;1&lt;/b&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="t1">
-          <mxGeometry x="-1088" y="1035" width="320" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="URvHxCfayZx7qtIzbfvF-6" value="" style="group" vertex="1" connectable="0" parent="t1">
+        <object label="text4" id="text4">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="URvHxCfayZx7qtIzbfvF-6" value="" style="group" vertex="1" connectable="0" parent="text4">
           <mxGeometry x="-1105" y="856.5" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_You9ZfkqOTvmkEiz1p5-18" value="&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Besondere Anforderungen erfüllt: 11 / 11&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="URvHxCfayZx7qtIzbfvF-6">
@@ -8450,6 +8435,50 @@
         <mxCell id="_You9ZfkqOTvmkEiz1p5-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/20/check-circle-outline-128.png" vertex="1" parent="URvHxCfayZx7qtIzbfvF-6">
           <mxGeometry y="11" width="20" height="20" as="geometry" />
         </mxCell>
+        <object label="text5" id="text5">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="_You9ZfkqOTvmkEiz1p5-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Stundenverteilung wird analysiert...&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="text5">
+          <mxGeometry x="-1108" y="929" width="330" height="40" as="geometry" />
+        </mxCell>
+        <object label="text6" id="text6">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="URvHxCfayZx7qtIzbfvF-2" value="&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;- Gesamtstundenabweichung: &lt;b&gt;-32&lt;/b&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="text6">
+          <mxGeometry x="-1088" y="960" width="300" height="40" as="geometry" />
+        </mxCell>
+        <object label="text7" id="text7">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="URvHxCfayZx7qtIzbfvF-3" value="&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;- Assistent*innen mit ausgeglichenem Stundenkonto: &lt;b&gt;6&lt;/b&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="text7">
+          <mxGeometry x="-1088" y="985" width="460" height="40" as="geometry" />
+        </mxCell>
+        <object label="text8" id="text8">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="URvHxCfayZx7qtIzbfvF-4" value="&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;- Assistent*innen mit Minusstunden: &lt;b&gt;3&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="text8">
+          <mxGeometry x="-1088" y="1010" width="330" height="40" as="geometry" />
+        </mxCell>
+        <object label="text9" id="text9">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="URvHxCfayZx7qtIzbfvF-5" value="&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;- Assistent*innen mit Überstunden: &lt;b&gt;1&lt;/b&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="text9">
+          <mxGeometry x="-1088" y="1035" width="320" height="40" as="geometry" />
+        </mxCell>
+        <object label="button2" id="button2">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="oHNgpKaZMavMpkUzsORz-11" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 24px;&quot;&gt;WEITER ZUM DIENSTPLAN&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#333333;shadow=1;fillColor=#E6E6E6;gradientColor=#FFFFFF;gradientDirection=radial;" vertex="1" parent="button2">
+          <mxGeometry x="-1127" y="1192" width="600" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3ExXC_41pxxhDReP5sOt" name="Seite-9">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
