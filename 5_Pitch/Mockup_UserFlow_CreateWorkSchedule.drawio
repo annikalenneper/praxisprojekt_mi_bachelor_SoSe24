@@ -1203,7 +1203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SE_AssistentinZuordnen" id="BtMG5foGEkJ4_LGUI9ZQ">
-    <mxGraphModel dx="4057" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="rVMkiw2JLN9jALtLbmhH-0" />
         <object label="Ebene 1" id="1">
