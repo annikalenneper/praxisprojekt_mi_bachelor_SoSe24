@@ -1179,9 +1179,6 @@
         <mxCell id="YmB8EmpHoRo5ChJOINq1-5" value="" style="group" vertex="1" connectable="0" parent="YmB8EmpHoRo5ChJOINq1-1">
           <mxGeometry x="-720" y="1240" width="140" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="YmB8EmpHoRo5ChJOINq1-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#CCCCCC;shadow=1;" vertex="1" parent="YmB8EmpHoRo5ChJOINq1-1">
-          <mxGeometry x="-1200" y="1630" width="750" height="10" as="geometry" />
-        </mxCell>
         <object label="shadow" id="shadow">
           <mxCell parent="0" />
         </object>
@@ -2621,7 +2618,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SE_SchichtAufteilen" id="W9IFunpEaPG3G5H1OCiD">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="3607" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0Ah3Lm-utXkAHUfo2LFl-0" />
         <mxCell id="bg" value="Ebene1" style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
@@ -3611,7 +3608,7 @@
           <mxGeometry x="-901" y="335" width="25" height="25" as="geometry" />
         </mxCell>
         <object label="SchichtBearbeiten" id="sb">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <UserObject label="" id="J6uDSxVn9LI7FWs5KzY--235">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;arcSize=3;" parent="sb" vertex="1">
@@ -3818,7 +3815,7 @@
           <mxGeometry x="25" width="19" height="19" as="geometry" />
         </mxCell>
         <object label="schichtAufteilen" id="sAufteilen">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <mxCell id="hsBDdTxxfULZdPD9IdQP-0" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SCHICHT AUFTEILEN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="sAufteilen" vertex="1">
           <mxGeometry x="-961" y="794" width="270" height="40" as="geometry" />
@@ -4025,7 +4022,7 @@
           </mxGeometry>
         </mxCell>
         <object label="clock-base" id="clock-base">
-          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <UserObject label="" tags="" id="cNhr3tuftbtci3kVnjOX-7">
           <mxCell style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=1;aspect=fixed;" parent="clock-base" vertex="1">
@@ -4233,7 +4230,7 @@
           </mxCell>
         </UserObject>
         <object label="1h" id="h1">
-          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <UserObject label="1:30" tags="" id="cNhr3tuftbtci3kVnjOX-30">
           <mxCell style="shape=rect;fillColor=#808080;fontColor=#ffffff;strokeColor=none;align=center;spacing=0;fontSize=52;verticalAlign=middle;spacingBottom=60;spacingLeft=16;whiteSpace=wrap;html=1;" parent="h1" vertex="1">
@@ -5464,15 +5461,15 @@
           <mxGeometry x="603.3489096573207" y="58.5" width="19.781931464174455" height="19.781931464174455" as="geometry" />
         </mxCell>
         <object label="schatten" id="schatten">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
-        <mxCell id="Oij5iOswuO_TcU0WWa8M-14" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;strokeColor=none;gradientColor=#a3a3a3;fillOpacity=40;strokeOpacity=100;gradientDirection=south;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="schatten" vertex="1">
-          <mxGeometry x="-1185" y="1251" width="722" height="80" as="geometry" />
+        <mxCell id="Oij5iOswuO_TcU0WWa8M-14" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;strokeColor=none;gradientColor=#000000;fillOpacity=76;strokeOpacity=100;gradientDirection=south;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;opacity=50;glass=1;" parent="schatten" vertex="1">
+          <mxGeometry x="-1190" y="1103" width="731" height="271" as="geometry" />
         </mxCell>
         <object label="auswahl" id="auswahl">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
-        <mxCell id="nymcvdIaN2q0OlhtvN8u-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;shadow=1;shadowOpacity=36;shadowOffsetX=5;shadowOffsetY=8;shadowBlur=28;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="auswahl" vertex="1">
+        <mxCell id="nymcvdIaN2q0OlhtvN8u-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;shadow=0;shadowOpacity=36;shadowOffsetX=5;shadowOffsetY=8;shadowBlur=28;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="auswahl" vertex="1">
           <mxGeometry x="-1185" y="1312" width="725" height="210" as="geometry" />
         </mxCell>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;auswahl&quot;,&quot;schatten&quot;,&quot;buttons&quot;]}}]}" id="Oij5iOswuO_TcU0WWa8M-9">
@@ -5503,7 +5500,7 @@
           <mxGeometry x="-1185" y="1484" width="724" height="40" as="geometry" />
         </mxCell>
         <object label="buttons" id="buttons">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="Oij5iOswuO_TcU0WWa8M-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;opacity=80;strokeColor=#EDEDED;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=18;fontColor=default;" parent="buttons" vertex="1">
           <mxGeometry x="-858.5" y="1372" width="70.5" height="70.5" as="geometry" />
@@ -5544,7 +5541,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xzGUwClctAHI0IO_y_qt" name="VE_1">
-    <mxGraphModel dx="2814" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel dx="4057" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="" id="hg">
@@ -6641,135 +6638,32 @@
             <mxGeometry x="-598" y="581" width="120" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <object label="1" id="1">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="GuLt6X6N5iEffusb7BkC-1">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="1" vertex="1">
-            <mxGeometry x="-549" y="709" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="2" id="2">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-60">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="2" vertex="1">
-            <mxGeometry x="-1126" y="825" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="3" id="3">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-61">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="3" vertex="1">
-            <mxGeometry x="-1030" y="825" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="4" id="4">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-62">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="4" vertex="1">
-            <mxGeometry x="-934" y="825" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="5" id="5">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-63">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="5" vertex="1">
-            <mxGeometry x="-838" y="825" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="6" id="6">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-64">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="6" vertex="1">
-            <mxGeometry x="-741" y="825" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="7" id="7">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-65">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="7" vertex="1">
-            <mxGeometry x="-645" y="825" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="8" id="8">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-66">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="8" vertex="1">
-            <mxGeometry x="-549" y="825" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="9" id="9">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-67">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="9" vertex="1">
-            <mxGeometry x="-1126" y="940" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="10" id="10">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-68">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="10" vertex="1">
-            <mxGeometry x="-1030" y="941" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="12" id="12">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-69">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="12" vertex="1">
-            <mxGeometry x="-838" y="941" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="13" id="13">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-70">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="13" vertex="1">
-            <mxGeometry x="-741" y="941" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="14" id="14">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-71">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="14" vertex="1">
-            <mxGeometry x="-645" y="942" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="15" id="15">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-72">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="15" vertex="1">
-            <mxGeometry x="-549" y="943" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="16" id="16">
-          <mxCell style="" parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-73">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="16" vertex="1">
-            <mxGeometry x="-1127" y="1058" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="17" id="17">
-          <mxCell parent="0" />
-        </object>
-        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-74">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="17" vertex="1">
-            <mxGeometry x="-1031" y="1058" width="62" height="53.12" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="sNSA0hCV4S7-n9uNfeA9-45" value="" style="group;strokeWidth=0.5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1" connectable="0">
+        <mxCell id="jo-qlBNFvvMUzPVtY5JP-34" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Dienstplanung Dezember &#39;24&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="hg">
+          <mxGeometry x="-1189" y="267" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jo-qlBNFvvMUzPVtY5JP-35" value="Schritt 2: Verfügbarkeiten eingeben" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="hg">
+          <mxGeometry x="-1180" y="328" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jo-qlBNFvvMUzPVtY5JP-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/info-circle-128.png;fontColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="hg">
+          <mxGeometry x="-864" y="334" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jo-qlBNFvvMUzPVtY5JP-31" value="" style="group;strokeWidth=1;" vertex="1" connectable="0" parent="hg">
+          <mxGeometry x="-510" y="292" width="27.29" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jo-qlBNFvvMUzPVtY5JP-32" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="jo-qlBNFvvMUzPVtY5JP-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="0.5458000000000202" as="sourcePoint" />
+            <mxPoint x="27.29" y="28" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jo-qlBNFvvMUzPVtY5JP-33" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="jo-qlBNFvvMUzPVtY5JP-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="26.74419999999998" as="sourcePoint" />
+            <mxPoint y="27.440000000000126" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNSA0hCV4S7-n9uNfeA9-45" value="" style="group;strokeWidth=0.5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="hg" vertex="1" connectable="0">
           <mxGeometry x="-1104.9988976377954" y="426.00333333333333" width="20.716510903426812" height="20.705088265835933" as="geometry" />
         </mxCell>
         <mxCell id="sNSA0hCV4S7-n9uNfeA9-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="sNSA0hCV4S7-n9uNfeA9-45" vertex="1">
@@ -6788,8 +6682,136 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <object label="1" id="1">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="GuLt6X6N5iEffusb7BkC-1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="-549" y="709" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="2" id="2">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-60">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="2" vertex="1">
+            <mxGeometry x="-1126" y="825" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="3" id="3">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-61">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="3" vertex="1">
+            <mxGeometry x="-1030" y="825" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="4" id="4">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-62">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="4" vertex="1">
+            <mxGeometry x="-934" y="825" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="5" id="5">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-63">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="5" vertex="1">
+            <mxGeometry x="-838" y="825" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="6" id="6">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-64">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="6" vertex="1">
+            <mxGeometry x="-741" y="825" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="7" id="7">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-65">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="7" vertex="1">
+            <mxGeometry x="-645" y="825" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="8" id="8">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-66">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="8" vertex="1">
+            <mxGeometry x="-549" y="825" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="9" id="9">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-67">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="9" vertex="1">
+            <mxGeometry x="-1126" y="940" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="10" id="10">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-68">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="10" vertex="1">
+            <mxGeometry x="-1030" y="941" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="12" id="12">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-69">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="12" vertex="1">
+            <mxGeometry x="-838" y="941" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="13" id="13">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-70">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="13" vertex="1">
+            <mxGeometry x="-741" y="941" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="14" id="14">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-71">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="14" vertex="1">
+            <mxGeometry x="-645" y="942" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="15" id="15">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-72">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="15" vertex="1">
+            <mxGeometry x="-549" y="943" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="16" id="16">
+          <mxCell style="" parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-73">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="16" vertex="1">
+            <mxGeometry x="-1127" y="1058" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="17" id="17">
+          <mxCell parent="0" visible="0" />
+        </object>
+        <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-74">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="17" vertex="1">
+            <mxGeometry x="-1031" y="1058" width="62" height="53.12" as="geometry" />
+          </mxCell>
+        </UserObject>
         <object label="18" id="18">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-75">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="18" vertex="1">
@@ -6797,7 +6819,7 @@
           </mxCell>
         </UserObject>
         <object label="19" id="19">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-76">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="19" vertex="1">
@@ -6805,7 +6827,7 @@
           </mxCell>
         </UserObject>
         <object label="20" id="20">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-77">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="20" vertex="1">
@@ -6813,40 +6835,15 @@
           </mxCell>
         </UserObject>
         <object label="21" id="21">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-78">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="21" vertex="1">
             <mxGeometry x="-646" y="1058" width="62" height="53.12" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="jo-qlBNFvvMUzPVtY5JP-31" value="" style="group;strokeWidth=1;" vertex="1" connectable="0" parent="21">
-          <mxGeometry x="-510" y="292" width="27.29" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="jo-qlBNFvvMUzPVtY5JP-32" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="jo-qlBNFvvMUzPVtY5JP-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="0.5458000000000202" as="sourcePoint" />
-            <mxPoint x="27.29" y="28" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jo-qlBNFvvMUzPVtY5JP-33" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="jo-qlBNFvvMUzPVtY5JP-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="26.74419999999998" as="sourcePoint" />
-            <mxPoint y="27.440000000000126" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jo-qlBNFvvMUzPVtY5JP-34" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Dienstplanung Dezember &#39;24&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="21">
-          <mxGeometry x="-1189" y="267" width="350" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jo-qlBNFvvMUzPVtY5JP-35" value="Schritt 2: Verfügbarkeiten eingeben" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="21">
-          <mxGeometry x="-1180" y="328" width="300" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jo-qlBNFvvMUzPVtY5JP-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/info-circle-128.png;fontColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="21">
-          <mxGeometry x="-864" y="334" width="25" height="25" as="geometry" />
-        </mxCell>
         <object label="22" id="22">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-79">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="22" vertex="1">
@@ -6854,7 +6851,7 @@
           </mxCell>
         </UserObject>
         <object label="23" id="23">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-80">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="23" vertex="1">
@@ -6862,7 +6859,7 @@
           </mxCell>
         </UserObject>
         <object label="24" id="24">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-81">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="24" vertex="1">
@@ -6870,7 +6867,7 @@
           </mxCell>
         </UserObject>
         <object label="25" id="25">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-82">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="25" vertex="1">
@@ -6878,7 +6875,7 @@
           </mxCell>
         </UserObject>
         <object label="26" id="26">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-83">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="26" vertex="1">
@@ -6886,7 +6883,7 @@
           </mxCell>
         </UserObject>
         <object label="27" id="27">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-84">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="27" vertex="1">
@@ -6894,7 +6891,7 @@
           </mxCell>
         </UserObject>
         <object label="28" id="28">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-85">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="28" vertex="1">
@@ -6902,7 +6899,7 @@
           </mxCell>
         </UserObject>
         <object label="29" id="29">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" tags="checkmark" id="FJOQeQw6BWIeuDLWjEeE-86">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#8C8C8C;strokeColor=none;gradientColor=#67AB9F;aspect=fixed;shadow=1;" parent="29" vertex="1">
@@ -6925,13 +6922,11 @@
             <mxGeometry x="-1030" y="1286" width="62" height="53.12" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="FJOQeQw6BWIeuDLWjEeE-47" value="toggleCheck" parent="0" />
-        <mxCell id="FJOQeQw6BWIeuDLWjEeE-53" value="toggleBlock" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="VE_2" id="02tooKVoLCJO_JH4Vbhk">
-    <mxGraphModel dx="3568" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel dx="3216" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="GkoPyuyAkhq8C8TGnms7-0" />
         <object label="" id="GkoPyuyAkhq8C8TGnms7-1">
@@ -8053,6 +8048,9 @@
         <mxCell id="87cOvIlgvkATOJ8o1DuA-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/info-circle-128.png;fontColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="GkoPyuyAkhq8C8TGnms7-1">
           <mxGeometry x="-864" y="334" width="25" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="GkoPyuyAkhq8C8TGnms7-295" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="GkoPyuyAkhq8C8TGnms7-1">
+          <mxGeometry x="-1103.9988976377954" y="426.00333333333333" width="20.705088265835897" height="20.705088265835897" as="geometry" />
+        </mxCell>
         <object label="1" id="GkoPyuyAkhq8C8TGnms7-262">
           <mxCell parent="GkoPyuyAkhq8C8TGnms7-0" />
         </object>
@@ -8184,9 +8182,6 @@
         <mxCell id="GkoPyuyAkhq8C8TGnms7-294" value="" style="group;strokeWidth=0.5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="GkoPyuyAkhq8C8TGnms7-292">
           <mxGeometry x="-1104.9988976377954" y="426.00333333333333" width="20.716510903426812" height="20.705088265835933" as="geometry" />
         </mxCell>
-        <mxCell id="GkoPyuyAkhq8C8TGnms7-295" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="GkoPyuyAkhq8C8TGnms7-294">
-          <mxGeometry x="1" width="20.705088265835897" height="20.705088265835897" as="geometry" />
-        </mxCell>
         <mxCell id="GkoPyuyAkhq8C8TGnms7-296" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;entryX=1;entryY=1;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="GkoPyuyAkhq8C8TGnms7-294" target="GkoPyuyAkhq8C8TGnms7-295">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="0.41433021806860293" as="sourcePoint" />
@@ -8312,8 +8307,6 @@
             <mxGeometry x="-1030" y="1286" width="62" height="53.12" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="GkoPyuyAkhq8C8TGnms7-326" value="toggleCheck" parent="GkoPyuyAkhq8C8TGnms7-0" />
-        <mxCell id="GkoPyuyAkhq8C8TGnms7-327" value="toggleBlock" parent="GkoPyuyAkhq8C8TGnms7-0" />
       </root>
     </mxGraphModel>
   </diagram>
