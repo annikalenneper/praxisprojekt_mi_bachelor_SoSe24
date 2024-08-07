@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t_J28IGcNbgc4qMofjZc" name="DienstplanErstellen1_beschriftet">
-    <mxGraphModel dx="3703" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="4522" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2609,7 +2609,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SE_SchichtAufteilen" id="W9IFunpEaPG3G5H1OCiD">
-    <mxGraphModel dx="3607" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="3447" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0Ah3Lm-utXkAHUfo2LFl-0" />
         <mxCell id="bg" value="Ebene1" style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
@@ -3946,7 +3946,7 @@
         <object label="close" id="x">
           <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;sb&quot;,&quot;schicht&quot;,&quot;sNeu&quot;,&quot;sAufteilen&quot;,&quot;aufgeteilt&quot;,&quot;x&quot;,&quot;back&quot;]},&quot;show&quot;:{&quot;cells&quot;:[&quot;bg&quot;]}}]}" id="J6uDSxVn9LI7FWs5KzY--236">
+        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;w&quot;,&quot;sb&quot;,&quot;schicht&quot;,&quot;sNeu&quot;,&quot;sAufteilen&quot;,&quot;aufgeteilt&quot;,&quot;x&quot;,&quot;back&quot;]},&quot;show&quot;:{&quot;cells&quot;:[&quot;bg&quot;]}}]}" id="J6uDSxVn9LI7FWs5KzY--236">
           <mxCell style="group;strokeWidth=1;aspect=fixed;" parent="x" vertex="1" connectable="0">
             <mxGeometry x="-554" y="490" width="24" height="24" as="geometry" />
           </mxCell>
