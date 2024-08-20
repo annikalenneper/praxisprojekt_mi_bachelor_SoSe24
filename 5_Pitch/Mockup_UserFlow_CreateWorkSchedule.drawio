@@ -937,7 +937,7 @@
           <mxGeometry x="-1026" y="858" width="35" height="35" as="geometry" />
         </mxCell>
         <object label="shadow" id="shadow">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;shadow&quot;,&quot;button&quot;,&quot;buttons2&quot;]}}]}" id="gmAFRkwftmpo6nVvidyg-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;gradientColor=#000000;fillOpacity=70;strokeOpacity=100;gradientDirection=south;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#E8E8E8;" parent="shadow" vertex="1">
@@ -970,7 +970,7 @@
           </mxGeometry>
         </mxCell>
         <object label="buttons2" id="buttons2">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <mxCell id="YmB8EmpHoRo5ChJOINq1-4" value="" style="group" parent="buttons2" vertex="1" connectable="0">
           <mxGeometry x="-897" y="1163" width="140" height="128" as="geometry" />
@@ -3109,25 +3109,6 @@
             <mxPoint x="-724" y="1078.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" id="pmswvcnKPfbSD2El_Vjx-0">
-          <mxCell style="group" parent="bg" vertex="1" connectable="0">
-            <mxGeometry x="-637" y="1281" width="150" height="129" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,9E7I-OlYN3A_QED6pQBX" id="J6uDSxVn9LI7FWs5KzY--210">
-          <mxCell style="group" parent="pmswvcnKPfbSD2El_Vjx-0" vertex="1" connectable="0">
-            <mxGeometry x="90" width="60" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="J6uDSxVn9LI7FWs5KzY--211" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2f2f2;opacity=80;strokeColor=none;shadow=1;" parent="J6uDSxVn9LI7FWs5KzY--210" vertex="1">
-          <mxGeometry y="-1" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J6uDSxVn9LI7FWs5KzY--212" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAj1JREFUeAHt22FqwzAMhmEfoxCc+Ai9+XaDHilH2FCpoZTUzVdkIrfvYGRknlCeL05/TEmJLwQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAgoMDpdCo558s8z+s8z3855x87F7DVz2vJoCu84d99r9M0nT/vioNdkd3td+j3AdjPhNA7rwZ+DYMQeobw5PFT8euREHqFcPvwrdCtIyH0CKGU8uxDeCsMQugUwnnno8hCIQRC6CEQoGYphZ1wdA6EcHQCKSVCIIQAAgFaYCcQQgCBAC2wEwghgECAFtgJhBBAIEAL7ARCCCAQoAV2AiEEEAjQAjuBEAIIBGiBnUAIAQQCtDD8Tnic1dwxPLU1wTDSuTj/6G/Mao4E+k6va4iB4Bezmu9c2DB/syzL5fAn6Bc8blo3xBohgOuM/rcGcXgAwqxm604a9Xe/hwcgzmqOCr3V92rXfngA1oA1sixL68WJrQsY+Zzh8zaO191nrzYpw77ge8mnlMB3xFRLga+KOa4H3xFTLQW+Kua4HnxHTLUU+KqY43rwHTHVUuCrYo7rwXfEVEuBr4o5rgffEVMtBb4q5rgefEdMtRT4qpjjevAdMdVS4KtijuvBd8RUS4GvijmuB98RUy0FvirmuF6cRWV6wdH+WkqYRQXfG9/q7RyBBL8H/i2AV7Oo4PfCt7ovZlHB74lvtRuzqOD3xq/1H2ZRV9sVYQZla5McEUAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAIGbwD+Abd9Jyd86jQAAAABJRU5ErkJggg==;" parent="J6uDSxVn9LI7FWs5KzY--210" vertex="1">
-          <mxGeometry x="10" y="10.998571428571267" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J6uDSxVn9LI7FWs5KzY--213" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Verfügbarkeiten&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;eingeben&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" parent="pmswvcnKPfbSD2El_Vjx-0" vertex="1">
-          <mxGeometry x="-28" y="39" width="180" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="yBm_K5I4Ojv52hZYKabM-0" value="" style="group" parent="bg" vertex="1" connectable="0">
           <mxGeometry x="-1190" y="208" width="724.9997747777852" height="40.00000000000004" as="geometry" />
         </mxCell>
@@ -3373,8 +3354,22 @@
         <mxCell id="BsvOOSNsSP_Fv9lsiivM-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/info-circle-128.png;fontColor=#666666;align=left;" vertex="1" parent="bg">
           <mxGeometry x="-824" y="342" width="25" height="25" as="geometry" />
         </mxCell>
+        <UserObject label="" link="data:page/id,9E7I-OlYN3A_QED6pQBX" id="J6uDSxVn9LI7FWs5KzY--210">
+          <mxCell style="group" parent="bg" vertex="1" connectable="0">
+            <mxGeometry x="-547" y="1281" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="J6uDSxVn9LI7FWs5KzY--211" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2f2f2;opacity=80;strokeColor=none;shadow=1;" parent="J6uDSxVn9LI7FWs5KzY--210" vertex="1">
+          <mxGeometry y="-1" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6uDSxVn9LI7FWs5KzY--212" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAj1JREFUeAHt22FqwzAMhmEfoxCc+Ai9+XaDHilH2FCpoZTUzVdkIrfvYGRknlCeL05/TEmJLwQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAgoMDpdCo558s8z+s8z3855x87F7DVz2vJoCu84d99r9M0nT/vioNdkd3td+j3AdjPhNA7rwZ+DYMQeobw5PFT8euREHqFcPvwrdCtIyH0CKGU8uxDeCsMQugUwnnno8hCIQRC6CEQoGYphZ1wdA6EcHQCKSVCIIQAAgFaYCcQQgCBAC2wEwghgECAFtgJhBBAIEAL7ARCCCAQoAV2AiEEEAjQAjuBEAIIBGiBnUAIAQQCtDD8Tnic1dwxPLU1wTDSuTj/6G/Mao4E+k6va4iB4Bezmu9c2DB/syzL5fAn6Bc8blo3xBohgOuM/rcGcXgAwqxm604a9Xe/hwcgzmqOCr3V92rXfngA1oA1sixL68WJrQsY+Zzh8zaO191nrzYpw77ge8mnlMB3xFRLga+KOa4H3xFTLQW+Kua4HnxHTLUU+KqY43rwHTHVUuCrYo7rwXfEVEuBr4o5rgffEVMtBb4q5rgefEdMtRT4qpjjevAdMdVS4KtijuvBd8RUS4GvijmuB98RUy0FvirmuF6cRWV6wdH+WkqYRQXfG9/q7RyBBL8H/i2AV7Oo4PfCt7ovZlHB74lvtRuzqOD3xq/1H2ZRV9sVYQZla5McEUAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAIGbwD+Abd9Jyd86jQAAAABJRU5ErkJggg==;" parent="J6uDSxVn9LI7FWs5KzY--210" vertex="1">
+          <mxGeometry x="10" y="10.998571428571267" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J6uDSxVn9LI7FWs5KzY--213" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Verfügbarkeiten&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;eingeben&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" parent="bg" vertex="1">
+          <mxGeometry x="-665" y="1320" width="180" height="90" as="geometry" />
+        </mxCell>
         <object label="SchichtBearbeiten" id="sb">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <UserObject label="" id="J6uDSxVn9LI7FWs5KzY--235">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;arcSize=3;" parent="sb" vertex="1">
@@ -3570,7 +3565,7 @@
           <mxGeometry x="25" y="-8" width="25" height="25" as="geometry" />
         </mxCell>
         <object label="schichtAufteilen" id="sAufteilen">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <mxCell id="hsBDdTxxfULZdPD9IdQP-0" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SCHICHT AUFTEILEN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="sAufteilen" vertex="1">
           <mxGeometry x="-961" y="794" width="270" height="40" as="geometry" />
@@ -3693,16 +3688,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsBDdTxxfULZdPD9IdQP-29" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Nachtzuschlag (25 %)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;5,5 Stunden&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="sAufteilen" vertex="1">
-          <mxGeometry x="-765" y="671" width="167" height="22" as="geometry" />
-        </mxCell>
         <object label="back" id="back">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <object label="close" id="x">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h2&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;,&quot;button1&quot;,&quot;button2&quot;,&quot;clock-base&quot;,&quot;w&quot;,&quot;sb&quot;,&quot;schicht&quot;,&quot;sNeu&quot;,&quot;sAufteilen&quot;,&quot;aufgeteilt&quot;,&quot;x&quot;,&quot;back&quot;]},&quot;show&quot;:{&quot;cells&quot;:[&quot;bg&quot;]}}]}" id="J6uDSxVn9LI7FWs5KzY--236">
+        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;zuschlag&quot;,&quot;h1&quot;,&quot;h2&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;,&quot;button1&quot;,&quot;button2&quot;,&quot;clock-base&quot;,&quot;w&quot;,&quot;sb&quot;,&quot;schicht&quot;,&quot;sNeu&quot;,&quot;sAufteilen&quot;,&quot;aufgeteilt&quot;,&quot;x&quot;,&quot;back&quot;]},&quot;show&quot;:{&quot;cells&quot;:[&quot;bg&quot;]}}]}" id="J6uDSxVn9LI7FWs5KzY--236">
           <mxCell style="group;strokeWidth=1;aspect=fixed;" parent="x" vertex="1" connectable="0">
             <mxGeometry x="-554" y="490" width="24" height="24" as="geometry" />
           </mxCell>
@@ -3741,7 +3733,7 @@
         <object label="close2" id="x2">
           <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;button1&quot;,&quot;button2&quot;,&quot;x2&quot;, &quot;sb&quot;,&quot;schicht&quot;,&quot;sNeu&quot;,&quot;sNeu2&quot;,&quot;sAufteilen&quot;,&quot;aufgeteilt&quot;,&quot;x&quot;,&quot;back&quot;, &quot;w&quot;]},&quot;show&quot;:{&quot;cells&quot;:[&quot;bg&quot;, &quot;27-a&quot;]}}]}" id="bt0nM8hBevd-4Z8txg8e-1">
+        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;zuschlag&quot;,&quot;button1&quot;,&quot;button2&quot;,&quot;x2&quot;, &quot;sb&quot;,&quot;schicht&quot;,&quot;sNeu&quot;,&quot;sNeu2&quot;,&quot;sAufteilen&quot;,&quot;aufgeteilt&quot;,&quot;x&quot;,&quot;back&quot;, &quot;w&quot;]},&quot;show&quot;:{&quot;cells&quot;:[&quot;bg&quot;, &quot;27-a&quot;]}}]}" id="bt0nM8hBevd-4Z8txg8e-1">
           <mxCell style="group;strokeWidth=1;aspect=fixed;" parent="x2" vertex="1" connectable="0">
             <mxGeometry x="-554" y="490" width="24" height="24" as="geometry" />
           </mxCell>
@@ -3760,7 +3752,7 @@
           </mxGeometry>
         </mxCell>
         <object label="27-aufgeteilt" id="27-a">
-          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
+          <mxCell style="" parent="0Ah3Lm-utXkAHUfo2LFl-0" />
         </object>
         <mxCell id="nRtWeP-6K-zcv-lk_-41-482" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#333333;" parent="27-a" vertex="1">
           <mxGeometry x="-761" y="1070" width="41" height="50" as="geometry" />
@@ -3787,7 +3779,7 @@
           </mxGeometry>
         </mxCell>
         <object label="clock-base" id="clock-base">
-          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <UserObject label="" tags="" id="cNhr3tuftbtci3kVnjOX-7">
           <mxCell style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=1;aspect=fixed;" parent="clock-base" vertex="1">
@@ -3839,7 +3831,7 @@
             <mxGeometry x="315" y="16" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 18px;&quot;&gt;OK&lt;/font&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;button2&quot;,&quot;sb&quot;,&quot;schicht&quot;,&quot;x2&quot;,&quot;aufgeteilt&quot;,&quot;sNeu2&quot;,&quot;x2&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;button1&quot;,&quot;sNeu&quot;,&quot;x&quot;,&quot;sAufteilen&quot;,&quot;back&quot;,&quot;h1&quot;,&quot;h2&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;, &quot;clock-base&quot; ]}}]}" tags="" id="cNhr3tuftbtci3kVnjOX-24">
+        <UserObject label="&lt;font style=&quot;font-size: 18px;&quot;&gt;OK&lt;/font&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;button2&quot;,&quot;sb&quot;,&quot;schicht&quot;,&quot;x2&quot;,&quot;aufgeteilt&quot;,&quot;sNeu2&quot;,&quot;x2&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;zuschlag&quot;,&quot;button1&quot;,&quot;sNeu&quot;,&quot;x&quot;,&quot;sAufteilen&quot;,&quot;back&quot;,&quot;h1&quot;,&quot;h2&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;, &quot;clock-base&quot; ]}}]}" tags="" id="cNhr3tuftbtci3kVnjOX-24">
           <mxCell style="text;fontSize=16;fontColor=#333333;spacingTop=0;whiteSpace=wrap;spacing=0;verticalAlign=middle;align=center;fontStyle=1;html=1;" parent="cNhr3tuftbtci3kVnjOX-7" vertex="1">
             <mxGeometry x="1" y="1" width="90" height="50" relative="1" as="geometry">
               <mxPoint x="-90" y="-50" as="offset" />
@@ -3866,57 +3858,57 @@
             <mxGeometry x="-767" y="899" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="11" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h11&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h2&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-45">
+        <UserObject label="11" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h11&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;zuschlag&quot;,&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h2&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-45">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-811" y="913" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="10" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h10&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h2&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-44">
+        <UserObject label="10" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h10&quot;,&quot;zuschlag&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h2&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-44">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-844" y="946" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="9" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h9&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h2&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-43">
+        <UserObject label="9" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h9&quot;,&quot;zuschlag&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h2&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-43">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-861" y="991" width="49" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="8" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h8&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h2&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-42">
+        <UserObject label="8" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h8&quot;,&quot;zuschlag&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h2&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-42">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-846" y="1033" width="49" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="7" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h7&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h2&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-41">
+        <UserObject label="7" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h7&quot;,&quot;zuschlag&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h2&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-41">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-811" y="1069" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="6" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h6&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h2&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-40">
+        <UserObject label="6" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h6&quot;,&quot;zuschlag&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h2&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-40">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-767" y="1083" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="5" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h5&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h2&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-39">
+        <UserObject label="5" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h5&quot;,&quot;zuschlag&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h2&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-39">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-724" y="1069" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="4" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h4&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h2&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-38">
+        <UserObject label="4" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h4&quot;,&quot;zuschlag&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h2&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-38">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-688" y="1033" width="46" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="3" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h3&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h2&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-35">
+        <UserObject label="3" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h3&quot;,&quot;zuschlag&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h2&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-35">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-673" y="991" width="49" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#4d4d4d&quot;&gt;2&lt;/font&gt;" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h2&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-36">
+        <UserObject label="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#4d4d4d&quot;&gt;2&lt;/font&gt;" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h2&quot;,&quot;zuschlag&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-36">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="clock-base" vertex="1">
             <mxGeometry x="-679" y="950" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="1" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h1&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h2&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" tags="" id="cNhr3tuftbtci3kVnjOX-13">
+        <UserObject label="1" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;zuschlag&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h2&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h12&quot;]}}]}" tags="" id="cNhr3tuftbtci3kVnjOX-13">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-727" y="913" width="49" height="40" as="geometry" />
           </mxCell>
@@ -4424,8 +4416,11 @@
         <mxCell id="gsENJajWH-r4FD7V44SK-33" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Nachtzuschlag (25 %)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;0,5 Stunden&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="h11" vertex="1">
           <mxGeometry x="-1121" y="672" width="167" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="ONvguN8sGSiRYTT6-tro-5" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Nachtzuschlag (25 %)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;6,5&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Stunden&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="h11">
+          <mxGeometry x="-765" y="671" width="167" height="22" as="geometry" />
+        </mxCell>
         <object label="12h" id="h12">
-          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" />
+          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
         </object>
         <UserObject label="" tags="" id="cNhr3tuftbtci3kVnjOX-59">
           <mxCell style="dashed=0;shape=mxgraph.gmdl.time_picker;fillColor=#666666;strokeColor=#666666;verticalAlign=middle;align=right;fontColor=#ffffff;strokeWidth=2;spacingRight=9;fontSize=15;fontStyle=1;whiteSpace=wrap;html=1;rotation=270;" parent="h12" vertex="1">
@@ -4461,8 +4456,11 @@
         <mxCell id="gsENJajWH-r4FD7V44SK-36" value="0:30 Uhr - 8:30 Uhr&amp;nbsp;&lt;div style=&quot;font-size: 18px;&quot;&gt;8 Stunden&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" parent="gsENJajWH-r4FD7V44SK-34" vertex="1">
           <mxGeometry x="355" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gsENJajWH-r4FD7V44SK-37" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Nachtzuschlag (25 %)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;1,5 Stunden&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="h12" vertex="1">
+        <mxCell id="gsENJajWH-r4FD7V44SK-37" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Nachtzuschlag (25 %)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;2,5 Stunden&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="h12" vertex="1">
           <mxGeometry x="-1121" y="672" width="167" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ONvguN8sGSiRYTT6-tro-6" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Nachtzuschlag (25 %)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;5,5&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Stunden&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="h12">
+          <mxGeometry x="-765" y="672" width="167" height="22" as="geometry" />
         </mxCell>
         <object label="neueSchicht2" id="sNeu2">
           <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
@@ -4485,6 +4483,12 @@
         </mxCell>
         <mxCell id="ChPTvDObyRcqUzOmjxG5-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-communication/16/call-split-128.png" vertex="1" parent="ChPTvDObyRcqUzOmjxG5-0">
           <mxGeometry x="29" y="-7" width="25" height="25" as="geometry" />
+        </mxCell>
+        <object label="zuschlag" id="zuschlag">
+          <mxCell parent="0Ah3Lm-utXkAHUfo2LFl-0" visible="0" />
+        </object>
+        <mxCell id="hsBDdTxxfULZdPD9IdQP-29" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Nachtzuschlag (25 %)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;7 Stunden&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="zuschlag" vertex="1">
+          <mxGeometry x="-765" y="671" width="167" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
