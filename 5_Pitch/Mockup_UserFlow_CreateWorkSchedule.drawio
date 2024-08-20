@@ -3850,7 +3850,7 @@
             <mxGeometry x="175" y="51" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="12" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h12&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h2&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-46">
+        <UserObject label="12" tags="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;h12&quot;]},&quot;hide&quot;:{&quot;cells&quot;:[&quot;zuschlag&quot;,&quot;h1&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;,&quot;h6&quot;,&quot;h7&quot;,&quot;h8&quot;,&quot;h9&quot;,&quot;h10&quot;,&quot;h11&quot;,&quot;h2&quot;]}}]}" id="cNhr3tuftbtci3kVnjOX-46">
           <mxCell style="text;verticalAlign=middle;align=center;fontColor=#4D4D4D;fontSize=15;whiteSpace=wrap;html=1;" parent="clock-base" vertex="1">
             <mxGeometry x="-767" y="899" width="46" height="40" as="geometry" />
           </mxCell>
@@ -4491,7 +4491,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9E7I-OlYN3A_QED6pQBX" name="VE">
-    <mxGraphModel dx="3539" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel dx="4419" dy="1464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="C2qX1E51i-4IefFMhwbh-0" value="device" parent="0" />
