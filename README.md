@@ -1,6 +1,6 @@
 # praxisprojekt_mi_bachelor_SoSe24
 
-Das Repository gehört zum Praxisprojekt im Rahmen des Abschlusssemesters des Medieninformatik-Bachelors an der TH Köln. Es enthält weite Teile der Domänenrecherche, Nutzer- und Anforderungsanalyse und der vorläufigen Softwarespezifikation mittels UML-Modellierungen und dient der internen Verwaltung der Projekt-Artefakte.
+Das Repository dient der Sicherung und Verwaltung der Praxisprojekt-Artefakte im Rahmen des Abschlusssemesters des Medieninformatik-Bachelors an der TH Köln. Es enthält weite Teile der Domänenrecherche, der Nutzer- und Anforderungsanalyse und der vorläufigen Softwarespezifikation mittels UML-Modellierungen.
 
 Die Projektergebnisse werden nach Fertigstellung auf einer eigenen Webseite umfangreich dokumentiert und inhaltlich für Leser:innen mit und ohne IT-Hintergrund aufbereitet. 
 
