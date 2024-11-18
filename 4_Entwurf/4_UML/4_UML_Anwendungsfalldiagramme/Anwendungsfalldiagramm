@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Seite-1" id="rgkpd6scGGVu08JXezjR">
-    <mxGraphModel dx="2927" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2439" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,7 +258,7 @@
           <mxGeometry y="33.33333333333337" width="120.00306122448977" height="13.333333333333336" as="geometry" />
         </mxCell>
         <mxCell id="oYSH-yjy-Ea9SgMNFbym-8" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1080" y="520" width="150" height="100" as="geometry" />
+          <mxGeometry x="1090" y="520" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pCx2fA7IZHBn6V_Hlwi0-21" value="" style="shape=ellipse;container=0;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" parent="oYSH-yjy-Ea9SgMNFbym-8" vertex="1">
           <mxGeometry width="150" height="100" as="geometry" />
