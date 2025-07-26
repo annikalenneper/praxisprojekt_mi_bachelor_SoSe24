@@ -155,22 +155,22 @@
           <mxGeometry x="351" y="714" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hU1mSwrOkTwODNumZak5-34" value="Schicht-&lt;div&gt;anforderung&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="120" y="385" width="100" height="50" as="geometry" />
+          <mxGeometry x="118" y="385" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hU1mSwrOkTwODNumZak5-35" value="Anforderungs-&lt;div&gt;Eignung&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="667" width="110" height="50" as="geometry" />
+          <mxGeometry x="108" y="667" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hU1mSwrOkTwODNumZak5-36" value="Potenzielle&lt;br&gt;Besetzung" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="365" y="505" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hU1mSwrOkTwODNumZak5-37" value="Tatsächliche&lt;div&gt;Besetzung&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="740" y="642" width="100" height="50" as="geometry" />
+          <mxGeometry x="736" y="642" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hU1mSwrOkTwODNumZak5-38" value="besteht&lt;div&gt;aus /&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="820" y="345" width="70" height="50" as="geometry" />
+          <mxGeometry x="820" y="344" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hU1mSwrOkTwODNumZak5-39" value="gehört&lt;div&gt;zu&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="856" y="382" width="60" height="50" as="geometry" />
+          <mxGeometry x="856" y="387" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="owCv7C2xTu4Lf3qLJITi-6" value="SchichtEinstellungen" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="1120" width="160" height="180" as="geometry">
@@ -319,10 +319,10 @@
           <mxGeometry x="351" y="714" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V0t5BYG0HNd3opap7RdX-36" value="Schicht-&lt;div&gt;anforderung&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="120" y="385" width="100" height="50" as="geometry" />
+          <mxGeometry x="118" y="385" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V0t5BYG0HNd3opap7RdX-37" value="Anforderungs-&lt;div&gt;Eignung&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="110" y="667" width="110" height="50" as="geometry" />
+          <mxGeometry x="108" y="667" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V0t5BYG0HNd3opap7RdX-38" value="(Potenzielle)&lt;br&gt;Besetzung /" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="355" y="471" width="100" height="50" as="geometry" />
@@ -348,10 +348,10 @@
           <mxGeometry x="623" y="367" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hUmn6HpDE_rG8h8VdVPt-1" value="besteht&lt;div&gt;aus /&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="552" y="348" width="70" height="50" as="geometry" />
+          <mxGeometry x="552" y="345" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hUmn6HpDE_rG8h8VdVPt-2" value="gehört&lt;div&gt;zu&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="588" y="385" width="60" height="50" as="geometry" />
+          <mxGeometry x="588" y="386" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
