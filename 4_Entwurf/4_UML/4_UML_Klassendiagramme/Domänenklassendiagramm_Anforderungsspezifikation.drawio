@@ -210,7 +210,7 @@
         <mxCell id="V0t5BYG0HNd3opap7RdX-11" value="einsatzSoll: Int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=14;" vertex="1" parent="V0t5BYG0HNd3opap7RdX-9">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="V0t5BYG0HNd3opap7RdX-12" value="einsatzReal: Double" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=14;" vertex="1" parent="V0t5BYG0HNd3opap7RdX-9">
+        <mxCell id="56IWA-fjJ40JEuSVCXmf-1" value="\einsatzReal: Int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=14;" vertex="1" parent="V0t5BYG0HNd3opap7RdX-9">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="V0t5BYG0HNd3opap7RdX-17" value="" style="endArrow=none;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;elbow=vertical;fontSize=14;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="9oK_1hrNSjpWQQujm22R-1">
